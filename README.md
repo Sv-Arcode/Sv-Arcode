@@ -1,4 +1,4 @@
-# Hi, I'm Muyang Chen (陈沐阳)
+# Hi, I'm Muyang Chen
 
 Final-year B.Eng. student in **Electrical and Computer Engineering (Computer Engineering stream)** at **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, and undergraduate researcher in the **Network and Artificial Intelligence System (NAIS) Lab**, advised by Prof. Fangxin Wang.
 
