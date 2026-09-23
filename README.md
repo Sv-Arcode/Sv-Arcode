@@ -5,6 +5,7 @@ Final-year B.Eng. student in **Electrical and Computer Engineering (Computer Eng
 Major GPA **3.90/4.00** (**3/60, top 5%** in the Computer Engineering stream) · Dean's List **2023–24, 2024–25, 2025–26**
 
 - 🌐 Homepage: [sv-arcode.github.io](https://sv-arcode.github.io/)
+- 📄 CV: [Download PDF](https://sv-arcode.github.io/CV_MuyangChen.pdf)
 - 📫 Email: `123090028@link.cuhk.edu.cn`
 
 ## 🔍 Research Interests
@@ -17,7 +18,7 @@ Multimodal large language models · hidden-intent & emotion understanding · mul
   Multimodal, multi-turn benchmark with 3,962 temporally aligned audiovisual segments and a two-tier annotation scheme. Designed FRACTAM's modal decoupling and text reconstruction component, independently handled the inter-annotator agreement study, and contributed to evaluation, ablation studies, and the LLM-as-a-Judge protocol.
   *Co-first author — submitted to AAAI 2027 (under review).*
 - **AffectiveArt Challenge 2026** — ACM Multimedia Grand Challenge, Track 2
-  Led a 3-member team; designed the overall architecture; fine-tuned Gemma, Qwen, SigLIP2, and DINOv3 classifiers; and designed and implemented validation-weighted voting that outperformed the best individual model. Salience and classification outputs conditioned a LoRA-fine-tuned Qwen3.5-27B description model.
+  Led a 3-member team; designed the overall architecture; fine-tuned Gemma, Qwen, SigLIP2, and DINOv3 classifiers; and designed and implemented validation-weighted voting that outperformed the best individual model. Independently fine-tuned SigLIP2 and DINOv3 for visual-attribute salience prediction; salience and classification outputs conditioned a LoRA-fine-tuned Qwen3.5-27B description model.
   *Rank 5 / 14 on the official leaderboard (overall score 0.8236).*
 - **Butterfly-CNN-Interpretability** — [repo](https://github.com/Sv-Arcode/butterfly-cnn-interpretability)
   4-layer CNN classifying 10 visually similar butterfly species (83.23% test accuracy), with Class Activation Mapping implemented from scratch and PCA feature-space visualization.
