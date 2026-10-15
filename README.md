@@ -26,7 +26,6 @@ Multimodal large language models · hidden-intent & emotion understanding · mul
 
 ## 🏃 Ongoing
 
-- Preparing PhD applications (Fall 2027) — multimodal reasoning & social intelligence
 - MISID is under review at AAAI 2027
 
 ## 🛠 Skills
