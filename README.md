@@ -4,6 +4,8 @@ Final-year B.Eng. student in **Electrical and Computer Engineering (Computer Eng
 
 Major GPA **3.90/4.00** (**3/60, top 5%** in the Computer Engineering stream) · Dean's List **2023–24, 2024–25, 2025–26**
 
+Undergraduate Research Award (URA), CUHK-Shenzhen · **Jul–Sep 2026**
+
 - 🌐 Homepage: [sv-arcode.github.io](https://sv-arcode.github.io/)
 - 📄 CV: [Download PDF](https://sv-arcode.github.io/CV_MuyangChen.pdf)
 - 📫 Email: `123090028@link.cuhk.edu.cn`
