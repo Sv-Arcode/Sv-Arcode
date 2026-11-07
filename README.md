@@ -1,46 +1,23 @@
-# Hi, I'm Muyang Chen
+# Muyang Chen
 
-Final-year B.Eng. student in **Electrical and Computer Engineering (Computer Engineering stream)** at **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**, and undergraduate researcher in the **Network and Artificial Intelligence System (NAIS) Lab**, advised by Prof. Fangxin Wang.
+Final-year **Electrical and Computer Engineering** student (Computer Engineering stream) at **The Chinese University of Hong Kong, Shenzhen**, and undergraduate researcher in the **NAIS Lab**. I work with Prof. Fangxin Wang and Dr. Dayou Zhang. Expected graduation: July 2027.
 
-Major GPA **3.90/4.00** (**3/60, top 5%** in the Computer Engineering stream) · Dean's List **2023–24, 2024–25, 2025–26**
+My interests are in **multimodal reasoning, affective computing, and efficient visual inputs for vision-language models**.
 
-Undergraduate Research Award (URA), CUHK-Shenzhen · **Jul–Sep 2026**
+[Homepage](https://sv-arcode.github.io/) · [CV (PDF)](https://sv-arcode.github.io/CV_MuyangChen.pdf) · [Email](mailto:123090028@link.cuhk.edu.cn)
 
-- 🌐 Homepage: [sv-arcode.github.io](https://sv-arcode.github.io/)
-- 📄 CV: [Download PDF](https://sv-arcode.github.io/CV_MuyangChen.pdf)
-- 📫 Email: `123090028@link.cuhk.edu.cn`
+## Research & projects
 
-## 🔍 Research Interests
+- **MISID — Multimodal Hidden-Intent Recognition** · Co-first author; under review at AAAI 2027. Co-designed the annotation scheme for 3,962 audiovisual utterance segments, independently designed and conducted the inter-annotator agreement assessment, and contributed to model evaluations and ablations. Co-designed FRACTAM and independently designed its modal-decoupling component to preserve potential cross-modal inconsistencies.
+- **Visual Token Compression for Vision-Language Models** · Final-year project, Sep 2026–present. Investigating client-side visual compression for bandwidth-limited transmission to server-side models; adapting a MetaCompress-based module and comparing learned compression with token-selection baselines.
+- **AffectiveArt** · Team lead, ACM Multimedia 2026 Grand Challenge, Track 2. Led a three-member team, designed the system architecture, and independently developed task-specific weighted voting and fine-tuned visual-attribute salience models. **5th among 14 teams.**
+- **[Interpretable Butterfly Classification](https://github.com/Sv-Arcode/butterfly-cnn-interpretability)** · Course project lead. Four-convolutional-layer CNN for ten species (**83.23% test accuracy**), Class Activation Mapping implemented from scratch, and PCA analysis of feature maps.
 
-Multimodal large language models · hidden-intent & emotion understanding · multimodal reasoning · model interpretability
+## Education & honors
 
-## 📌 Selected Work
+- Cumulative GPA **3.81/4.00**; major GPA **3.90/4.00**, ranked **3/60 (top 5%)** in the Computer Engineering stream.
+- Undergraduate Research Award · Jul–Sep 2026
+- Dean’s List · 2023–24, 2024–25, 2025–26
+- Academic Specialty Entrance Scholarship (Second Class) · 2023–24 through 2026–27
 
-- **MISID — Hidden-Intent Recognition in Strategic Deception Games**
-  Multimodal, multi-turn benchmark with 3,962 temporally aligned audiovisual segments and a two-tier annotation scheme. Designed FRACTAM's modal decoupling and text reconstruction component, independently handled the inter-annotator agreement study, and contributed to evaluation, ablation studies, and the LLM-as-a-Judge protocol.
-  *Co-first author — submitted to AAAI 2027 (under review).*
-- **AffectiveArt Challenge 2026** — ACM Multimedia Grand Challenge, Track 2
-  Led a 3-member team; designed the overall architecture; fine-tuned Gemma, Qwen, SigLIP2, and DINOv3 classifiers; and designed and implemented validation-weighted voting that outperformed the best individual model. Independently fine-tuned SigLIP2 and DINOv3 for visual-attribute salience prediction; salience and classification outputs conditioned a LoRA-fine-tuned Qwen3.5-27B description model.
-  *Rank 5 / 14 on the official leaderboard (overall score 0.8236).*
-- **Butterfly-CNN-Interpretability** — [repo](https://github.com/Sv-Arcode/butterfly-cnn-interpretability)
-  4-layer CNN classifying 10 visually similar butterfly species (83.23% test accuracy), with Class Activation Mapping implemented from scratch and PCA feature-space visualization.
-  *ECE4513 Image Processing and Computer Vision final project.*
-
-## 🏃 Ongoing
-
-- MISID is under review at AAAI 2027
-
-## 🛠 Skills
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-<!--
-Muyang's profile README — keep it minimal and academic.
-Update after the AAAI 2027 decision.
--->
+**Tools:** Python, C++, PyTorch, OpenCV, Git, Linux, LaTeX
